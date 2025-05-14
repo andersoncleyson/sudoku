@@ -26,7 +26,7 @@ public class BoardService {
         this.board.reset();
     }
 
-    public boolean hasErros(){
+    public boolean hasErrors(){
         return board.hasErrors();
     }
 
